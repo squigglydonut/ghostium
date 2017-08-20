@@ -17,6 +17,9 @@
   "bugs": {
     "url": "https://github.com/oswaldoacauan/ghostium/issues"
   },
+  "config": {
+    "posts_per_page": 5
+  },
   "keywords": [
     "ghost",
     "blog",
